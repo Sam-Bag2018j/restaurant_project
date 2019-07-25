@@ -6,7 +6,7 @@ This is the final project "Restaurant Reviews Project" of front end web develope
 I had given the restaurant reviews code that had alot of issues. It wasn't responsve for mobile devices.  It also didn't had any acceibilty features, and didn't work offline. I had to fix all these issues.   
 
 ##Requirements:
-* clone [repository project]https://github.com/udacity/mws-restaurant-stage-1
+* clone [repository project](https://github.com/udacity/mws-restaurant-stage-1)
 
 
 

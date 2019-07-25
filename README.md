@@ -10,7 +10,7 @@ I had given the restaurant reviews code that had alot of issues. It wasn't respo
 * clone this project [repository project](https://github.com/udacity/mws-restaurant-stage-1)
 * check the version of Python you have by run this `python -v`.
 * for Python 2.x, I run this `python -m SimpleHTTPServer 8000`. 
-* I opend the site: http://localhost:8000,  
+* I opend the site: `http://localhost:8000`.  
 * updated the code to make this website responsive, accesssible, and work offline. 
  
 
